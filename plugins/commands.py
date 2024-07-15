@@ -26,7 +26,7 @@ from pyrogram import Client, filters, enums, __version__ as pyrogram_version
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMediaDocument
 
 main_buttons = [[
-        InlineKeyboardButton('🕷 ᴄᴏᴅᴇ ᴀʀᴛɪꜱᴀɴ', url='https://t.me/shubham_X_official')
+        InlineKeyboardButton('🕷 ᴄʀᴇᴀᴛᴇ ᴀ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ', url='https://t.me/SMString_Gen_Bot')
         ],[
         InlineKeyboardButton('👨‍💻 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/unreal_x_support'),
         InlineKeyboardButton('🔄 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/unreal_x_bot')
